@@ -12,7 +12,7 @@ Make sure you have access to an **Oracle database** (e.g., Oracle SQL Developer,
 
 ### 2. Create the Tables
 
-- Open the `create_tables.sql` script in your Oracle SQL client.
+- Open the `schema.sql` script in your Oracle SQL client.
 - Execute the script to create the necessary tables in your Oracle database.
 @create_tables.sql
 ### 3. Insert Sample Data
